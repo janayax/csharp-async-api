@@ -1,0 +1,10 @@
+d:\Workspace\dotnetcore\asyncAPI\bin\Debug\netcoreapp2.0\asyncAPI.deps.json
+d:\Workspace\dotnetcore\asyncAPI\bin\Debug\netcoreapp2.0\asyncAPI.runtimeconfig.json
+d:\Workspace\dotnetcore\asyncAPI\bin\Debug\netcoreapp2.0\asyncAPI.runtimeconfig.dev.json
+d:\Workspace\dotnetcore\asyncAPI\bin\Debug\netcoreapp2.0\asyncAPI.dll
+d:\Workspace\dotnetcore\asyncAPI\bin\Debug\netcoreapp2.0\asyncAPI.pdb
+d:\Workspace\dotnetcore\asyncAPI\obj\Debug\netcoreapp2.0\asyncAPI.csproj.CoreCompileInputs.cache
+d:\Workspace\dotnetcore\asyncAPI\obj\Debug\netcoreapp2.0\asyncAPI.AssemblyInfoInputs.cache
+d:\Workspace\dotnetcore\asyncAPI\obj\Debug\netcoreapp2.0\asyncAPI.AssemblyInfo.cs
+d:\Workspace\dotnetcore\asyncAPI\obj\Debug\netcoreapp2.0\asyncAPI.dll
+d:\Workspace\dotnetcore\asyncAPI\obj\Debug\netcoreapp2.0\asyncAPI.pdb
